@@ -12,6 +12,9 @@ pkg install cat -y
 pkg install figlet -y
 pkg install cmatrix -y
 pkg install perl -y
+pkg install pip -y
+pkg install pip2 -y
+pkg install pip3 -y
 apt update
 apt upgrade -y
 clear
